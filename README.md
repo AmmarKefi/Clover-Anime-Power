@@ -20,4 +20,4 @@ Use of ChatGPT or any other artificial intelligence for the solution is prohibit
 
 ## Contact Us - تواصل معنا
 
-[![CONTACT US](https://img.shields.io/badge/تواصل%20معنا-%231877f2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Clover.Anime.Power)
+[![CONTACT US]([https://img.shields.io/badge/تواصل%20معنا-%231877f2.svg?style=flat&logo=facebook&logoColor=white](https://img.shields.io/badge/CONTACT%20US-%25231877f2.svg?style=flat&logo=facebook&logoColor=white))](https://www.facebook.com/Clover.Anime.Power)
