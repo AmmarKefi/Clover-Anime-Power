@@ -5,10 +5,10 @@
     <br>
     <div align="center">
         <a href="https://www.facebook.com/3amarx" target="_blank">
-            <img src="https://img.shields.io/badge/Developer-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Developer" />
+            <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Developer" />
         </a>
         <a href="https://www.instagram.com/ammarkefi_" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
     </div>
 </p>
